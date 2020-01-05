@@ -1,0 +1,509 @@
+08/12/2019 22:23:08 devpinoyLogger Log4j appender configuration is successful !!
+08/12/2019 22:23:08 devpinoyLogger Chrome browser opened
+08/12/2019 22:23:12 devpinoyLogger URL is opned
+08/12/2019 22:23:12 devpinoyLogger Entered the username
+08/12/2019 22:23:12 devpinoyLogger Entered the password
+08/12/2019 22:23:14 devpinoyLogger Submit button clicked
+08/12/2019 22:23:14 devpinoyLogger Login test case fail
+08/12/2019 22:23:15 devpinoyLogger Chrome browser closed
+08/12/2019 22:26:06 ebanking Log4j appender configuration is successful !!
+08/12/2019 22:26:06 ebanking Chrome browser opened
+08/12/2019 22:26:10 ebanking URL is opned
+08/12/2019 22:26:11 ebanking Entered the username
+08/12/2019 22:26:11 ebanking Entered the password
+08/12/2019 22:26:12 ebanking Submit button clicked
+08/12/2019 22:26:12 ebanking Login test case fail
+08/12/2019 22:26:13 ebanking Chrome browser closed
+08/12/2019 22:27:09 ebanking Log4j appender configuration is successful !!
+08/12/2019 22:27:09 ebanking Chrome browser opened
+08/12/2019 22:27:13 ebanking URL is opned
+08/12/2019 22:27:13 ebanking Entered the username
+08/12/2019 22:27:14 ebanking Entered the password
+08/12/2019 22:27:15 ebanking Submit button clicked
+08/12/2019 22:27:15 ebanking Login test case fail
+08/12/2019 22:27:16 ebanking Chrome browser closed
+08/12/2019 22:28:25 ebanking Log4j appender configuration is successful !!
+08/12/2019 22:28:25 ebanking Chrome browser opened
+08/12/2019 22:28:28 ebanking URL is opned
+08/12/2019 22:28:29 ebanking Entered the username
+08/12/2019 22:28:29 ebanking Entered the password
+08/12/2019 22:28:30 ebanking Submit button clicked
+08/12/2019 22:28:30 ebanking Login test case pass
+08/12/2019 22:28:31 ebanking Chrome browser closed
+09/12/2019 23:39:57 ebanking Log4j appender configuration is successful !!
+09/12/2019 23:39:57 ebanking Chrome browser opened
+09/12/2019 23:40:01 ebanking URL is opned
+09/12/2019 23:40:01 ebanking Entered the username
+09/12/2019 23:40:02 ebanking Entered the password
+09/12/2019 23:40:03 ebanking Chrome browser closed
+09/12/2019 23:42:53 ebanking Log4j appender configuration is successful !!
+09/12/2019 23:42:53 ebanking Chrome browser opened
+09/12/2019 23:42:57 ebanking URL is opned
+09/12/2019 23:42:57 ebanking Entered the username
+09/12/2019 23:42:57 ebanking Entered the password
+09/12/2019 23:42:59 ebanking Submit button clicked
+09/12/2019 23:42:59 ebanking Login test case pass
+09/12/2019 23:43:00 ebanking Chrome browser closed
+16/12/2019 22:49:31 ebanking Log4j appender configuration is successful !!
+16/12/2019 22:49:31 ebanking Browser opened
+16/12/2019 22:49:31 ebanking URL is opned
+16/12/2019 22:49:31 ebanking Entered the username
+16/12/2019 22:49:31 ebanking Entered the password
+16/12/2019 22:49:32 ebanking Submit button clicked
+16/12/2019 22:49:32 ebanking Login test case pass
+16/12/2019 22:49:33 ebanking Chrome browser closed
+16/12/2019 22:50:39 ebanking Log4j appender configuration is successful !!
+16/12/2019 22:50:39 ebanking Browser opened
+16/12/2019 22:50:39 ebanking URL is opned
+16/12/2019 22:50:40 ebanking Chrome browser closed
+16/12/2019 22:52:04 ebanking Log4j appender configuration is successful !!
+16/12/2019 22:52:04 ebanking Browser opened
+16/12/2019 22:52:04 ebanking URL is opned
+16/12/2019 22:52:04 ebanking Entered the username
+16/12/2019 22:52:04 ebanking Entered the password
+16/12/2019 22:52:13 ebanking Submit button clicked
+16/12/2019 22:52:13 ebanking Login test case pass
+16/12/2019 22:52:16 ebanking Chrome browser closed
+17/12/2019 06:22:05 ebanking Log4j appender configuration is successful !!
+17/12/2019 06:22:05 ebanking Browser opened
+17/12/2019 06:22:05 ebanking URL is opned
+17/12/2019 06:22:05 ebanking Entered the username
+17/12/2019 06:22:05 ebanking Entered the password
+17/12/2019 06:22:17 ebanking Submit button clicked
+17/12/2019 06:22:17 ebanking Login test case pass
+17/12/2019 06:22:21 ebanking Chrome browser closed
+17/12/2019 06:48:37 ebanking Log4j appender configuration is successful !!
+17/12/2019 06:48:37 ebanking Browser opened
+17/12/2019 06:48:37 ebanking URL is opned
+17/12/2019 06:48:37 ebanking Entered the username
+17/12/2019 06:48:37 ebanking Entered the password
+17/12/2019 06:48:44 ebanking Submit button clicked
+17/12/2019 06:48:45 ebanking Login test case fail
+17/12/2019 06:48:48 ebanking Chrome browser closed
+03/01/2020 22:31:47 ebanking Log4j appender configuration is successful !!
+03/01/2020 22:31:47 ebanking Browser opened
+03/01/2020 22:31:47 ebanking URL is opned
+03/01/2020 22:31:47 ebanking Entered the username
+03/01/2020 22:31:47 ebanking Entered the password
+03/01/2020 22:31:49 ebanking Submit button clicked
+03/01/2020 22:31:52 ebanking Chrome browser closed
+03/01/2020 22:32:48 ebanking Log4j appender configuration is successful !!
+03/01/2020 22:32:48 ebanking Browser opened
+03/01/2020 22:32:48 ebanking URL is opned
+03/01/2020 22:32:48 ebanking Entered the username
+03/01/2020 22:32:48 ebanking Entered the password
+03/01/2020 22:32:49 ebanking Submit button clicked
+03/01/2020 22:32:50 ebanking Chrome browser closed
+03/01/2020 22:42:21 ebanking Log4j appender configuration is successful !!
+03/01/2020 22:42:21 ebanking Browser opened
+03/01/2020 22:42:21 ebanking URL is opned
+03/01/2020 22:42:21 ebanking Entered the username
+03/01/2020 22:42:22 ebanking Entered the password
+03/01/2020 22:42:24 ebanking Submit button clicked
+03/01/2020 22:42:25 ebanking Login test case fail
+03/01/2020 22:42:26 ebanking Chrome browser closed
+04/01/2020 11:21:29 ebanking Log4j appender configuration is successful !!
+04/01/2020 11:21:29 ebanking Browser opened
+04/01/2020 11:21:30 ebanking Chrome browser closed
+04/01/2020 11:29:12 ebanking Log4j appender configuration is successful !!
+04/01/2020 11:29:12 ebanking Browser opened
+04/01/2020 11:29:12 ebanking Chrome browser closed
+04/01/2020 11:36:47 ebanking Log4j appender configuration is successful !!
+04/01/2020 11:36:47 ebanking Browser opened
+04/01/2020 11:36:48 ebanking Chrome browser closed
+04/01/2020 11:40:06 ebanking Log4j appender configuration is successful !!
+04/01/2020 11:40:06 ebanking Browser opened
+04/01/2020 11:40:07 ebanking Chrome browser closed
+04/01/2020 11:49:41 ebanking Log4j appender configuration is successful !!
+04/01/2020 11:49:41 ebanking Browser opened
+04/01/2020 11:49:42 ebanking Chrome browser closed
+04/01/2020 11:53:07 ebanking Log4j appender configuration is successful !!
+04/01/2020 11:53:07 ebanking Browser opened
+04/01/2020 11:53:10 ebanking User name provided
+04/01/2020 11:53:10 ebanking Password provided
+04/01/2020 11:53:13 ebanking Click the submit button
+04/01/2020 11:53:16 ebanking Login passed
+04/01/2020 11:53:57 ebanking Chrome browser closed
+04/01/2020 11:54:58 ebanking Log4j appender configuration is successful !!
+04/01/2020 11:54:58 ebanking Browser opened
+04/01/2020 11:55:00 ebanking User name provided
+04/01/2020 11:55:00 ebanking Password provided
+04/01/2020 11:55:03 ebanking Click the submit button
+04/01/2020 11:55:06 ebanking Login passed
+04/01/2020 11:55:51 ebanking Log4j appender configuration is successful !!
+04/01/2020 11:55:51 ebanking Browser opened
+04/01/2020 11:55:53 ebanking User name provided
+04/01/2020 11:55:53 ebanking Password provided
+04/01/2020 11:55:56 ebanking Click the submit button
+04/01/2020 11:55:59 ebanking Login passed
+04/01/2020 11:56:40 ebanking Chrome browser closed
+04/01/2020 11:58:29 ebanking Log4j appender configuration is successful !!
+04/01/2020 11:58:29 ebanking Browser opened
+04/01/2020 11:58:32 ebanking User name provided
+04/01/2020 11:58:33 ebanking Password provided
+04/01/2020 11:58:35 ebanking Click the submit button
+04/01/2020 11:58:38 ebanking Login passed
+04/01/2020 11:59:23 ebanking Chrome browser closed
+04/01/2020 12:01:11 ebanking Log4j appender configuration is successful !!
+04/01/2020 12:01:11 ebanking Browser opened
+04/01/2020 12:01:13 ebanking User name provided
+04/01/2020 12:01:13 ebanking Password provided
+04/01/2020 12:01:15 ebanking Click the submit button
+04/01/2020 12:01:18 ebanking Login passed
+04/01/2020 12:01:24 ebanking User name provided
+04/01/2020 12:01:24 ebanking Password provided
+04/01/2020 12:01:25 ebanking Click the submit button
+04/01/2020 12:01:31 ebanking User name provided
+04/01/2020 12:01:31 ebanking Password provided
+04/01/2020 12:01:31 ebanking Click the submit button
+04/01/2020 12:01:36 ebanking User name provided
+04/01/2020 12:01:36 ebanking Password provided
+04/01/2020 12:01:38 ebanking Click the submit button
+04/01/2020 12:01:41 ebanking Login passed
+04/01/2020 12:01:55 ebanking Chrome browser closed
+04/01/2020 12:04:44 ebanking Log4j appender configuration is successful !!
+04/01/2020 12:04:44 ebanking Browser opened
+04/01/2020 12:04:47 ebanking User name provided
+04/01/2020 12:04:47 ebanking Password provided
+04/01/2020 12:04:49 ebanking Click the submit button
+04/01/2020 12:04:52 ebanking Login passed
+04/01/2020 12:05:37 ebanking Chrome browser closed
+04/01/2020 12:07:27 ebanking Log4j appender configuration is successful !!
+04/01/2020 12:07:27 ebanking Browser opened
+04/01/2020 12:07:30 ebanking User name provided
+04/01/2020 12:07:30 ebanking Password provided
+04/01/2020 12:07:32 ebanking Click the submit button
+04/01/2020 12:07:35 ebanking Login passed
+04/01/2020 12:07:41 ebanking User name provided
+04/01/2020 12:07:41 ebanking Password provided
+04/01/2020 12:07:42 ebanking Click the submit button
+04/01/2020 12:07:48 ebanking User name provided
+04/01/2020 12:07:48 ebanking Password provided
+04/01/2020 12:07:49 ebanking Click the submit button
+04/01/2020 12:07:53 ebanking User name provided
+04/01/2020 12:07:53 ebanking Password provided
+04/01/2020 12:07:55 ebanking Click the submit button
+04/01/2020 12:07:58 ebanking Login passed
+04/01/2020 12:08:06 ebanking User name provided
+04/01/2020 12:08:06 ebanking Password provided
+04/01/2020 12:08:06 ebanking Click the submit button
+04/01/2020 12:08:12 ebanking Chrome browser closed
+04/01/2020 15:44:56 ebanking Log4j appender configuration is successful !!
+04/01/2020 15:44:56 ebanking Browser opened
+04/01/2020 15:44:56 ebanking User name provided
+04/01/2020 15:44:57 ebanking Password provided
+04/01/2020 15:45:10 ebanking Chrome browser closed
+04/01/2020 15:46:58 ebanking Log4j appender configuration is successful !!
+04/01/2020 15:46:58 ebanking Browser opened
+04/01/2020 15:47:00 ebanking User name provided
+04/01/2020 15:47:00 ebanking Password provided
+04/01/2020 15:47:05 ebanking Chrome browser closed
+04/01/2020 15:49:54 ebanking Log4j appender configuration is successful !!
+04/01/2020 15:49:54 ebanking Browser opened
+04/01/2020 15:49:55 ebanking User name provided
+04/01/2020 15:49:55 ebanking Password provided
+04/01/2020 15:50:08 ebanking Chrome browser closed
+04/01/2020 15:52:20 ebanking Log4j appender configuration is successful !!
+04/01/2020 15:52:20 ebanking Browser opened
+04/01/2020 15:52:20 ebanking User name provided
+04/01/2020 15:52:21 ebanking Password provided
+04/01/2020 15:52:33 ebanking Chrome browser closed
+04/01/2020 15:53:09 ebanking Log4j appender configuration is successful !!
+04/01/2020 15:53:09 ebanking Browser opened
+04/01/2020 15:53:09 ebanking User name provided
+04/01/2020 15:53:10 ebanking Password provided
+04/01/2020 15:53:27 ebanking Test case passed
+04/01/2020 15:53:28 ebanking Chrome browser closed
+04/01/2020 15:57:11 ebanking Log4j appender configuration is successful !!
+04/01/2020 15:57:11 ebanking Browser opened
+04/01/2020 15:57:11 ebanking URL is opned
+04/01/2020 15:57:11 ebanking Entered the username
+04/01/2020 15:57:12 ebanking Entered the password
+04/01/2020 15:57:14 ebanking Submit button clicked
+04/01/2020 15:57:15 ebanking Login test case fail
+04/01/2020 15:57:16 ebanking Chrome browser closed
+04/01/2020 15:57:27 ebanking Log4j appender configuration is successful !!
+04/01/2020 15:57:27 ebanking Browser opened
+04/01/2020 15:57:29 ebanking User name provided
+04/01/2020 15:57:29 ebanking Password provided
+04/01/2020 15:57:31 ebanking Click the submit button
+04/01/2020 15:57:34 ebanking Login passed
+04/01/2020 15:57:41 ebanking User name provided
+04/01/2020 15:57:41 ebanking Password provided
+04/01/2020 15:57:42 ebanking Click the submit button
+04/01/2020 15:57:47 ebanking User name provided
+04/01/2020 15:57:47 ebanking Password provided
+04/01/2020 15:57:48 ebanking Click the submit button
+04/01/2020 15:57:53 ebanking User name provided
+04/01/2020 15:57:53 ebanking Password provided
+04/01/2020 15:57:54 ebanking Click the submit button
+04/01/2020 15:57:57 ebanking Login passed
+04/01/2020 15:58:39 ebanking User name provided
+04/01/2020 15:58:39 ebanking Password provided
+04/01/2020 15:58:39 ebanking Click the submit button
+04/01/2020 15:58:45 ebanking Chrome browser closed
+04/01/2020 15:58:59 ebanking Log4j appender configuration is successful !!
+04/01/2020 15:58:59 ebanking Browser opened
+04/01/2020 15:58:59 ebanking User name provided
+04/01/2020 15:58:59 ebanking Password provided
+04/01/2020 15:59:15 ebanking Test case passed
+04/01/2020 15:59:16 ebanking Chrome browser closed
+04/01/2020 16:01:33 ebanking Log4j appender configuration is successful !!
+04/01/2020 16:01:33 ebanking Browser opened
+04/01/2020 16:01:33 ebanking URL is opned
+04/01/2020 16:01:33 ebanking Entered the username
+04/01/2020 16:01:34 ebanking Entered the password
+04/01/2020 16:01:35 ebanking Submit button clicked
+04/01/2020 16:01:36 ebanking Login test case fail
+04/01/2020 16:01:37 ebanking Chrome browser closed
+04/01/2020 16:01:50 ebanking Log4j appender configuration is successful !!
+04/01/2020 16:01:50 ebanking Browser opened
+04/01/2020 16:01:53 ebanking User name provided
+04/01/2020 16:01:53 ebanking Password provided
+04/01/2020 16:01:56 ebanking Click the submit button
+04/01/2020 16:01:59 ebanking Login passed
+04/01/2020 16:02:05 ebanking User name provided
+04/01/2020 16:02:05 ebanking Password provided
+04/01/2020 16:02:06 ebanking Click the submit button
+04/01/2020 16:02:11 ebanking User name provided
+04/01/2020 16:02:12 ebanking Password provided
+04/01/2020 16:02:12 ebanking Click the submit button
+04/01/2020 16:02:17 ebanking User name provided
+04/01/2020 16:02:17 ebanking Password provided
+04/01/2020 16:02:20 ebanking Click the submit button
+04/01/2020 16:02:23 ebanking Login passed
+04/01/2020 16:02:29 ebanking User name provided
+04/01/2020 16:02:30 ebanking Password provided
+04/01/2020 16:02:30 ebanking Click the submit button
+04/01/2020 16:02:36 ebanking Chrome browser closed
+04/01/2020 16:02:50 ebanking Log4j appender configuration is successful !!
+04/01/2020 16:02:50 ebanking Browser opened
+04/01/2020 16:02:51 ebanking User name provided
+04/01/2020 16:02:51 ebanking Password provided
+04/01/2020 16:03:57 ebanking Chrome browser closed
+04/01/2020 16:06:55 ebanking Log4j appender configuration is successful !!
+04/01/2020 16:06:55 ebanking Browser opened
+04/01/2020 16:06:56 ebanking URL is opned
+04/01/2020 16:07:07 ebanking Chrome browser closed
+04/01/2020 16:08:02 ebanking Log4j appender configuration is successful !!
+04/01/2020 16:08:02 ebanking Browser opened
+04/01/2020 16:08:13 ebanking Chrome browser closed
+04/01/2020 17:49:53 ebanking Log4j appender configuration is successful !!
+04/01/2020 17:49:53 ebanking Browser opened
+04/01/2020 17:49:53 ebanking URL is opned
+04/01/2020 17:49:53 ebanking Entered the username
+04/01/2020 17:49:53 ebanking Entered the password
+04/01/2020 17:49:55 ebanking Submit button clicked
+04/01/2020 17:49:56 ebanking Login test case fail
+04/01/2020 17:49:57 ebanking Chrome browser closed
+04/01/2020 17:50:10 ebanking Log4j appender configuration is successful !!
+04/01/2020 17:50:10 ebanking Browser opened
+04/01/2020 17:50:18 ebanking User name provided
+04/01/2020 17:50:18 ebanking Password provided
+04/01/2020 17:50:20 ebanking Click the submit button
+04/01/2020 17:50:23 ebanking Login passed
+04/01/2020 17:50:30 ebanking User name provided
+04/01/2020 17:50:30 ebanking Password provided
+04/01/2020 17:50:31 ebanking Click the submit button
+04/01/2020 17:50:36 ebanking User name provided
+04/01/2020 17:50:36 ebanking Password provided
+04/01/2020 17:50:36 ebanking Click the submit button
+04/01/2020 17:50:41 ebanking User name provided
+04/01/2020 17:50:41 ebanking Password provided
+04/01/2020 17:50:43 ebanking Click the submit button
+04/01/2020 17:50:46 ebanking Login passed
+04/01/2020 17:50:54 ebanking User name provided
+04/01/2020 17:50:54 ebanking Password provided
+04/01/2020 17:50:55 ebanking Click the submit button
+04/01/2020 17:51:00 ebanking Chrome browser closed
+04/01/2020 17:51:18 ebanking Log4j appender configuration is successful !!
+04/01/2020 17:51:18 ebanking Browser opened
+04/01/2020 17:51:19 ebanking User name provided
+04/01/2020 17:51:19 ebanking Password provided
+04/01/2020 17:51:33 ebanking Test case passed
+04/01/2020 17:51:34 ebanking Chrome browser closed
+04/01/2020 22:00:41 ebanking Log4j appender configuration is successful !!
+04/01/2020 22:00:41 ebanking Browser opened
+04/01/2020 22:00:41 ebanking URL is opned
+04/01/2020 22:00:41 ebanking Entered the username
+04/01/2020 22:00:42 ebanking Entered the password
+04/01/2020 22:00:44 ebanking Submit button clicked
+04/01/2020 22:00:45 ebanking Login test case fail
+04/01/2020 22:00:46 ebanking Chrome browser closed
+04/01/2020 22:00:59 ebanking Log4j appender configuration is successful !!
+04/01/2020 22:00:59 ebanking Browser opened
+04/01/2020 22:01:05 ebanking User name provided
+04/01/2020 22:01:05 ebanking Password provided
+04/01/2020 22:01:07 ebanking Click the submit button
+04/01/2020 22:01:10 ebanking Login passed
+04/01/2020 22:01:17 ebanking User name provided
+04/01/2020 22:01:17 ebanking Password provided
+04/01/2020 22:01:18 ebanking Click the submit button
+04/01/2020 22:01:30 ebanking User name provided
+04/01/2020 22:01:30 ebanking Password provided
+04/01/2020 22:01:31 ebanking Click the submit button
+04/01/2020 22:01:36 ebanking User name provided
+04/01/2020 22:01:36 ebanking Password provided
+04/01/2020 22:01:39 ebanking Click the submit button
+04/01/2020 22:01:42 ebanking Login passed
+04/01/2020 22:01:49 ebanking User name provided
+04/01/2020 22:01:49 ebanking Password provided
+04/01/2020 22:01:50 ebanking Click the submit button
+04/01/2020 22:01:56 ebanking Chrome browser closed
+04/01/2020 22:02:09 ebanking Log4j appender configuration is successful !!
+04/01/2020 22:02:09 ebanking Browser opened
+04/01/2020 22:02:09 ebanking User name provided
+04/01/2020 22:02:09 ebanking Password provided
+04/01/2020 22:02:24 ebanking Test case passed
+04/01/2020 22:02:24 ebanking Chrome browser closed
+04/01/2020 22:08:26 ebanking Log4j appender configuration is successful !!
+04/01/2020 22:08:26 ebanking Browser opened
+04/01/2020 22:08:26 ebanking URL is opned
+04/01/2020 22:08:27 ebanking Entered the username
+04/01/2020 22:08:27 ebanking Entered the password
+04/01/2020 22:08:29 ebanking Submit button clicked
+04/01/2020 22:08:30 ebanking Login test case fail
+04/01/2020 22:08:31 ebanking Chrome browser closed
+04/01/2020 22:08:45 ebanking Log4j appender configuration is successful !!
+04/01/2020 22:08:45 ebanking Browser opened
+04/01/2020 22:08:46 ebanking User name provided
+04/01/2020 22:08:46 ebanking Password provided
+04/01/2020 22:08:59 ebanking Test case passed
+04/01/2020 22:09:00 ebanking Chrome browser closed
+05/01/2020 10:55:24 ebanking Log4j appender configuration is successful !!
+05/01/2020 10:55:24 ebanking Browser opened
+05/01/2020 10:55:24 ebanking URL is opned
+05/01/2020 10:55:24 ebanking Entered the username
+05/01/2020 10:55:24 ebanking Entered the password
+05/01/2020 10:55:28 ebanking Submit button clicked
+05/01/2020 10:55:29 ebanking Login test case fail
+05/01/2020 10:55:30 ebanking Chrome browser closed
+05/01/2020 10:55:43 ebanking Log4j appender configuration is successful !!
+05/01/2020 10:55:43 ebanking Browser opened
+05/01/2020 10:55:44 ebanking User name provided
+05/01/2020 10:55:44 ebanking Password provided
+05/01/2020 10:55:57 ebanking Test case passed
+05/01/2020 10:55:58 ebanking Chrome browser closed
+05/01/2020 11:10:20 ebanking Log4j appender configuration is successful !!
+05/01/2020 11:10:20 ebanking Browser opened
+05/01/2020 11:10:20 ebanking URL is opned
+05/01/2020 11:10:21 ebanking Entered the username
+05/01/2020 11:10:21 ebanking Entered the password
+05/01/2020 11:10:23 ebanking Submit button clicked
+05/01/2020 11:10:23 ebanking Login test case fail
+05/01/2020 11:10:24 ebanking Chrome browser closed
+05/01/2020 11:10:38 ebanking Log4j appender configuration is successful !!
+05/01/2020 11:10:38 ebanking Browser opened
+05/01/2020 11:10:38 ebanking User name provided
+05/01/2020 11:10:39 ebanking Password provided
+05/01/2020 11:10:52 ebanking Test case passed
+05/01/2020 11:10:53 ebanking Chrome browser closed
+05/01/2020 12:08:49 ebanking Log4j appender configuration is successful !!
+05/01/2020 12:08:49 ebanking Browser opened
+05/01/2020 12:08:49 ebanking URL is opned
+05/01/2020 12:08:50 ebanking Entered the username
+05/01/2020 12:08:51 ebanking Entered the password
+05/01/2020 12:08:53 ebanking Submit button clicked
+05/01/2020 12:08:54 ebanking Login test case fail
+05/01/2020 12:08:55 ebanking Chrome browser closed
+05/01/2020 12:09:08 ebanking Log4j appender configuration is successful !!
+05/01/2020 12:09:08 ebanking Browser opened
+05/01/2020 12:09:10 ebanking User name provided
+05/01/2020 12:09:10 ebanking Password provided
+05/01/2020 12:09:13 ebanking Chrome browser closed
+05/01/2020 12:24:05 ebanking Log4j appender configuration is successful !!
+05/01/2020 12:24:05 ebanking Browser opened
+05/01/2020 12:24:05 ebanking URL is opned
+05/01/2020 12:24:06 ebanking Entered the username
+05/01/2020 12:24:06 ebanking Entered the password
+05/01/2020 12:24:08 ebanking Submit button clicked
+05/01/2020 12:24:08 ebanking Login test case fail
+05/01/2020 12:24:09 ebanking Chrome browser closed
+05/01/2020 12:24:22 ebanking Log4j appender configuration is successful !!
+05/01/2020 12:24:22 ebanking Browser opened
+05/01/2020 12:24:22 ebanking User name provided
+05/01/2020 12:24:23 ebanking Password provided
+05/01/2020 12:24:35 ebanking Test case passed
+05/01/2020 12:24:36 ebanking Chrome browser closed
+05/01/2020 12:34:50 ebanking Log4j appender configuration is successful !!
+05/01/2020 12:34:50 ebanking Browser opened
+05/01/2020 12:34:50 ebanking URL is opned
+05/01/2020 12:34:51 ebanking Entered the username
+05/01/2020 12:34:51 ebanking Entered the password
+05/01/2020 12:34:53 ebanking Submit button clicked
+05/01/2020 12:34:53 ebanking Login test case fail
+05/01/2020 12:34:54 ebanking Chrome browser closed
+05/01/2020 12:35:07 ebanking Log4j appender configuration is successful !!
+05/01/2020 12:35:07 ebanking Browser opened
+05/01/2020 12:35:08 ebanking User name provided
+05/01/2020 12:35:08 ebanking Password provided
+05/01/2020 12:35:21 ebanking Test case passed
+05/01/2020 12:35:22 ebanking Chrome browser closed
+05/01/2020 12:53:54 ebanking Log4j appender configuration is successful !!
+05/01/2020 12:53:54 ebanking Browser opened
+05/01/2020 12:53:54 ebanking URL is opned
+05/01/2020 12:53:55 ebanking Entered the username
+05/01/2020 12:53:55 ebanking Entered the password
+05/01/2020 12:53:57 ebanking Submit button clicked
+05/01/2020 12:53:58 ebanking Login test case fail
+05/01/2020 12:53:59 ebanking Chrome browser closed
+05/01/2020 12:54:17 ebanking Log4j appender configuration is successful !!
+05/01/2020 12:54:17 ebanking Browser opened
+05/01/2020 12:54:17 ebanking User name provided
+05/01/2020 12:54:18 ebanking Password provided
+05/01/2020 12:54:29 ebanking Chrome browser closed
+05/01/2020 13:40:19 ebanking Log4j appender configuration is successful !!
+05/01/2020 13:40:19 ebanking Browser opened
+05/01/2020 13:40:19 ebanking URL is opned
+05/01/2020 13:40:19 ebanking Entered the username
+05/01/2020 13:40:20 ebanking Entered the password
+05/01/2020 13:40:22 ebanking Submit button clicked
+05/01/2020 13:40:22 ebanking Login test case fail
+05/01/2020 13:40:23 ebanking Chrome browser closed
+05/01/2020 13:40:38 ebanking Log4j appender configuration is successful !!
+05/01/2020 13:40:38 ebanking Browser opened
+05/01/2020 13:40:38 ebanking User name provided
+05/01/2020 13:40:38 ebanking Password provided
+05/01/2020 13:40:51 ebanking Test case passed
+05/01/2020 13:40:52 ebanking Chrome browser closed
+05/01/2020 13:42:39 ebanking Log4j appender configuration is successful !!
+05/01/2020 13:42:39 ebanking Browser opened
+05/01/2020 13:42:39 ebanking URL is opned
+05/01/2020 13:42:39 ebanking Entered the username
+05/01/2020 13:42:39 ebanking Entered the password
+05/01/2020 13:42:41 ebanking Submit button clicked
+05/01/2020 13:42:41 ebanking Login test case fail
+05/01/2020 13:42:42 ebanking Chrome browser closed
+05/01/2020 13:42:55 ebanking Log4j appender configuration is successful !!
+05/01/2020 13:42:55 ebanking Browser opened
+05/01/2020 13:42:55 ebanking User name provided
+05/01/2020 13:42:55 ebanking Password provided
+05/01/2020 13:43:14 ebanking Test case passed
+05/01/2020 13:43:15 ebanking Chrome browser closed
+05/01/2020 14:47:34 ebanking Log4j appender configuration is successful !!
+05/01/2020 14:47:34 ebanking Browser opened
+05/01/2020 14:47:34 ebanking URL is opned
+05/01/2020 14:47:34 ebanking Entered the username
+05/01/2020 14:47:35 ebanking Entered the password
+05/01/2020 14:47:36 ebanking Submit button clicked
+05/01/2020 14:47:37 ebanking Login test case fail
+05/01/2020 14:47:38 ebanking Chrome browser closed
+05/01/2020 14:47:53 ebanking Log4j appender configuration is successful !!
+05/01/2020 14:47:53 ebanking Browser opened
+05/01/2020 14:47:53 ebanking User name provided
+05/01/2020 14:47:53 ebanking Password provided
+05/01/2020 14:48:05 ebanking Chrome browser closed
+05/01/2020 14:49:16 ebanking Log4j appender configuration is successful !!
+05/01/2020 14:49:16 ebanking Browser opened
+05/01/2020 14:49:16 ebanking URL is opned
+05/01/2020 14:49:16 ebanking Entered the username
+05/01/2020 14:49:17 ebanking Entered the password
+05/01/2020 14:49:18 ebanking Submit button clicked
+05/01/2020 14:49:19 ebanking Login test case fail
+05/01/2020 14:49:19 ebanking Chrome browser closed
+05/01/2020 14:49:32 ebanking Log4j appender configuration is successful !!
+05/01/2020 14:49:32 ebanking Browser opened
+05/01/2020 14:49:32 ebanking User name provided
+05/01/2020 14:49:32 ebanking Password provided
+05/01/2020 14:49:45 ebanking Test case passed
+05/01/2020 14:49:45 ebanking Chrome browser closed
